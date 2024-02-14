@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #007bff; 
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.schedule-table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.schedule-table th,
+.schedule-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.schedule-table th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
